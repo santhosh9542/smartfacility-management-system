@@ -121,7 +121,7 @@ smartfacility-management-system/
  1️⃣ Clone Repository
 
 #bash
-git clone https://github.com/YOUR_USERNAME/smartfacility-management-system.git
+git clone https://github.com/santhosh9542/smartfacility-management-system.git
 cd smartfacility-management-system
 
 2️⃣ Backend Setup
